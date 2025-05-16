@@ -10,3 +10,16 @@ This repository contains the code for a portfolio in development.
 - **Bootstrap**
 - **TypeScript**
 
+## Screenshots
+
+### PC
+
+![Tela 1 PC](telas/tela1_pc.png)
+
+![Tela 2 PC](telas/tela2_pc.png)
+
+### Smartphone
+
+![Tela 1 Smarthphone](telas/tela1_phone.png)
+
+![Tela 2 Smarthphone](telas/tela2_phone.png)
