@@ -21,6 +21,5 @@ This repository contains the code for a portfolio in development.
 ### Smartphone
 
 ![Tela 1 Smarthphone](telas/tela1.1_phone.png)
-
-
+![Tela 1 Smarthphone](telas/tela1.2_phone.png)
 ![Tela 2 Smarthphone](telas/tela2_phone.png)
