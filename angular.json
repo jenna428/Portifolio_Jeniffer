@@ -55,7 +55,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/Portifolio/"
+              "baseHref": "/Portifolio_Jeniffer/"
             },
             "development": {
               "buildOptimizer": false,
