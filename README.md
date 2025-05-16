@@ -10,4 +10,4 @@ This repository contains the code for a portfolio in development.
 - **Bootstrap**
 - **TypeScript**
 
-URL: jenna428.github.io/Portifolio
+URL: https://jenna428.github.io/Portifolio_Jeniffer/
