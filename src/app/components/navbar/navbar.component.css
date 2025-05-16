@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.nav{
+    background-color: rgb(243, 242, 242);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(99, 99, 99);
+    font-size: 1.5em;
+    font-family: var(--fonte_nav);
+}
+
+a:hover{
+    color: rgba(99, 99, 99, 0.726);
+}
+
+
+.hd{
+    background-color: var(--lilas_escuro);
+    height: 10px;
+}
+
+@media screen and (min-width: 550px){
+    a{
+        font-size: 2em;
+    }
+}

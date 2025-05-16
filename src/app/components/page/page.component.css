@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+/*fixed*/
+.end-footer{
+    position: fixed;
+    bottom: 0;
+}
+
+.normal-footer{
+    position: static;
+}
